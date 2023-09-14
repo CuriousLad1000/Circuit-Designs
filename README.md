@@ -14,13 +14,15 @@ sub-section with its own details listed under it.
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Circuit-Designs/wiki/raw/images/0b3e6db527f8dd62bd652fa44341152e7a5e3d5a.png">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Circuit-Designs/images/0b3e6db527f8dd62bd652fa44341152e7a5e3d5a.png">
 </p>
+
+
 
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Circuit-Designs/wiki/raw/images/847a73c69560e32e77daf5713084dff673d21a23.png">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Circuit-Designs/images/847a73c69560e32e77daf5713084dff673d21a23.png">
 </p>
 
 <br/>
@@ -32,7 +34,7 @@ sub-section with its own details listed under it.
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Circuit-Designs/wiki/raw/images/5c253c6377139c641d06f8c51774a23b0cede8ee.png">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Circuit-Designs/images/5c253c6377139c641d06f8c51774a23b0cede8ee.png">
 </p>
 
 <br/>
@@ -44,7 +46,7 @@ sub-section with its own details listed under it.
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Circuit-Designs/wiki/raw/images/0b4e28b8eda580c7a110e3771c97982ec139f571.png">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Circuit-Designs/images/0b4e28b8eda580c7a110e3771c97982ec139f571.png">
 </p>
 
 <br/>
@@ -56,7 +58,7 @@ sub-section with its own details listed under it.
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Circuit-Designs/wiki/raw/images/89d503b1e2eec78432422ce783f72ffb2100540a.png">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Circuit-Designs/images/89d503b1e2eec78432422ce783f72ffb2100540a.png">
 </p>
 
 <br/>
